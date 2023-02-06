@@ -1,0 +1,27 @@
+﻿
+    .bg {
+        background-color: lightpink !important;
+    }
+
+    .position {
+        text-align: center
+    }
+
+    .table {
+        border: 1px solid hotpink;
+    }
+
+    .text {
+        color: deeppink !important;
+        font-family: 'Times New Roman';
+    }
+
+    .fontsize {
+        font-size: 24px;
+        font-family: 'Times New Roman';
+    }
+
+    .tb {
+        border-spacing: 10px;
+        color: transparent;
+    }
